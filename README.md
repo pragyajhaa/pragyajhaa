@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋🏻 I am Pragya <br>a student passionate about AI/ML and software development<br>I enjoy exploring intelligent systems and creating impactful tech projects. <br>When I’m not coding, you’ll find me making art or singing — all while maintaining a strong academic record.
+# Hi 👋🏻 I am Pragya
+I am a student passionate about AI/ML and software development<br>I enjoy exploring intelligent systems and creating impactful tech projects. <br>When I’m not coding, you’ll find me making art or singing — all while maintaining a strong academic record.
 
 
 ## 🌐 Socials:
